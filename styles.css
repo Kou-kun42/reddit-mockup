@@ -1,0 +1,47 @@
+footer {
+  background-color: #333;
+  color: white;
+  padding-top: 2rem;
+}
+
+.navbar,
+.jumbotron {
+  background-color: #2c2c32;
+  color: white;
+}
+
+footer p {
+  padding: 1rem;
+}
+
+.copyright {
+  padding-bottom: 1rem;
+}
+
+.no-decoration {
+  text-decoration: none;
+  color: white;
+}
+
+footer.container p a {
+  text-decoration: none;
+}
+
+.tweets,
+.debug,
+.extensions,
+.get-started:not(button),
+.terms {
+  background-color: #f5f5f5;
+  padding: 3rem;
+}
+
+.get-started h2 {
+  padding-top: 4rem;
+}
+
+.intellisense,
+.git,
+.azure {
+  padding: 3rem;
+}
